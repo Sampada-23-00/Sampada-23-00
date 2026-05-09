@@ -25,14 +25,14 @@ Currently pursuing B.E. in Artificial Intelligence & Data Science @ D.Y. Patil C
 Automated 9-stage ML pipeline with PSI & KS-test drift detection, root cause analysis engine, and structured diagnostic report generation.
 https://github.com/Sampada-23-00/Post-Mortem-Intelligence
 
-### Uber Surge Pricing System
-Predictive pricing model (R² = 0.88) using Ridge, Random Forest & Gradient Boosting across 8 cities. Deployed via FastAPI, containerized with Docker, versioned with DVC.
-https://github.com/Sampada-23-00/Uber_Surge_Pricing
-
 ### Civic Issue Reporting System *(In Progress)*
 CV validation pipeline using YOLOv8 + EfficientNet to verify civic issue reports. Integrating ML module into backend for automated complaint routing.
 https://github.com/adityaborhade18/SIH_Project
 Live Demo - https://sih-project-lilac-omega.vercel.app/
+
+### Uber Surge Pricing System
+Predictive pricing model (R² = 0.88) using Ridge, Random Forest & Gradient Boosting across 8 cities. Deployed via FastAPI, containerized with Docker, versioned with DVC.
+https://github.com/Sampada-23-00/Uber_Surge_Pricing
 
 ---
 
@@ -56,6 +56,9 @@ Live Demo - https://sih-project-lilac-omega.vercel.app/
 - 🤝 Hackathon organizer — AI Summit Delhi & Lyzr AI (200+ participants)
 
 ---
+## 🌍 Open Source
+
+Currently exploring and contributing to open-source projects focused on AI/ML, backend systems, and developer tooling.
 
 ## 📫 Connect
 
